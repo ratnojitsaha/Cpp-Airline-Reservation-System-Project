@@ -1,0 +1,10 @@
+___________________Kingfisher Airlines_________________
+______________________Ticket____________________
+________________________________________________
+Customer ID: 11
+Customer Name: abc
+Customer Gender: male
+	Description
+
+Destination		Canada
+Flight cost : 		25000
